@@ -4,7 +4,7 @@
  */
 
 /*
- * Copy this file as `lv_conf.h`
+ * Copy this file as `lv_conf.h`    .
  * 1. simply next to the `lvgl` folder
  * 2. or any other places and
  *    - define `LV_CONF_INCLUDE_SIMPLE`
