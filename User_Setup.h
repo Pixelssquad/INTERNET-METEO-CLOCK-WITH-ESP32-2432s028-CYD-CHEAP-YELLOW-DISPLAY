@@ -1,5 +1,5 @@
 /* 
-  Rui Santos & Sara Santos - Random Nerd Tutorials
+  Rui Santos & Sara Santos - Random Nerd Tutorials.
 
   Install the "TFT_eSPI" lbirary by Bodmer to interface with the TFT Display - https://github.com/Bodmer/TFT_eSPI
   *** IMPORTANT: User_Setup.h available on the internet will probably NOT work with the examples available at Random Nerd Tutorials ***
